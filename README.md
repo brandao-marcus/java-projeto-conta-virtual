@@ -1,6 +1,6 @@
 ► Java - Conta Virtual ◄
 
- Objetivos do projeto:
+ ⛏ Objetivos do projeto:
 
 
 • Criar um cabeçalho inicial com os dados do cliente (Nome, Tipo da Conta e Saldo)
